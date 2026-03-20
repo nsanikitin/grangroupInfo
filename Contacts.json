@@ -18,5 +18,35 @@
       "address": "ул. Выборгская, 16-4, оф.Б-301, 125212",
       "phone": "+7 (495) 775-15-18"
     }
+  ],
+   "socialMedia": [
+    {
+      "name": "Хабр",
+      "url": "https://habr.com/ru/companies/grangroup"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/grangroup"
+    },
+    {
+      "name": "Дзен",
+      "url": "https://dzen.ru/grangroup"
+    },
+    {
+      "name": "ВКонтакте",
+      "url": "https://vk.com/granpcb"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@Grangroupru"
+    },
+    {
+      "name": "RuTube",
+      "url": "https://rutube.ru/channel/38313039"
+    },
+    {
+      "name": "VK Видео",
+      "url": "https://vkvideo.ru/@granpcb"
+    }
   ]
 }
