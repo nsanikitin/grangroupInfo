@@ -22,31 +22,38 @@
    "socialMedia": [
     {
       "name": "Хабр",
-      "url": "https://habr.com/ru/companies/grangroup"
+      "url": "https://habr.com/ru/companies/grangroup",
+      "icon": "icon_habr"
     },
     {
       "name": "Telegram",
-      "url": "https://t.me/grangroup"
+      "url": "https://t.me/grangroup",
+      "icon": "icon_telegram"
     },
     {
       "name": "Дзен",
-      "url": "https://dzen.ru/grangroup"
+      "url": "https://dzen.ru/grangroup",
+      "icon": "icon_dzen"
     },
     {
       "name": "ВКонтакте",
-      "url": "https://vk.com/granpcb"
+      "url": "https://vk.com/granpcb",
+      "icon": "icon_vk"
     },
     {
       "name": "YouTube",
-      "url": "https://www.youtube.com/@Grangroupru"
+      "url": "https://www.youtube.com/@Grangroupru",
+      "icon": "icon_youtube"
     },
     {
       "name": "RuTube",
-      "url": "https://rutube.ru/channel/38313039"
+      "url": "https://rutube.ru/channel/38313039",
+      "icon": "icon_rutube"
     },
     {
       "name": "VK Видео",
-      "url": "https://vkvideo.ru/@granpcb"
+      "url": "https://vkvideo.ru/@granpcb",
+      "icon": "icon_vkvideo"
     }
   ]
 }
